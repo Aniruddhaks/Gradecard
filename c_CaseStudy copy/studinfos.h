@@ -1,0 +1,1 @@
+void studinfo(int num_entries, char names[][50], char sections[][5], int roll_numbers[]);

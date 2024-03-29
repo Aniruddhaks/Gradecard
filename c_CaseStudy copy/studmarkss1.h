@@ -1,0 +1,1 @@
+void studmarks(int num_entries, int roll_numbers[], char subject[][15], char test[][10], int marks[100][100][100], int m, char names[][50], char sections[][5]);
